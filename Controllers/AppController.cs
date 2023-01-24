@@ -34,7 +34,6 @@ public class AppController : Controller
         return View();
     }
 
-
     public IActionResult Privacy()
     {
         return View();
