@@ -33,6 +33,10 @@ public class AppController : Controller
     {
         return View();
     }
+     public IActionResult RevisarEjercicios()
+    {
+        return View();
+    }
 
     public IActionResult Privacy()
     {
